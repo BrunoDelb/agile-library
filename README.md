@@ -15,3 +15,5 @@ This repo lists various resources (blogs, SDK, libraries, ...) about Agile, Craf
 - [Management & organization](management-organization.md)
 - [Productivity](productivity.md)
 - [Testing](testing.md)
+
+The DevOps Library : https://github.com/BrunoDelb/devops-library
